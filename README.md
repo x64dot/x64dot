@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x64dot
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 📫 How to reach me (x64dot@gmail.com)
 - ⚡ Fun fact: No fun facts here.
 
